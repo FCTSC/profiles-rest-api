@@ -1,0 +1,4 @@
+# '==' specifies the version to install. Without it, lateste version of package automatically installed
+# Might break code if versions are not compatible
+django==2.2
+djangorestframework==3.9.2
